@@ -1,0 +1,2 @@
+# PyKurs
+Basit Python dersi
