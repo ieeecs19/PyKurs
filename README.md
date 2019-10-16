@@ -12,3 +12,5 @@ https://www.learnpython.org/en/Hello%2C_World%21
 
 Bu linkten başlayarak Python basit syntaxı hakkında bilgi edinebilirsiniz.
  
+https://pythonprogramming.net/introduction-scraping-parsing-beautiful-soup-tutorial/ 
+Beautiful soup referansı .
